@@ -99,6 +99,7 @@ for name, team in data:
     pdf.set_font("MandarinFont", size=38)
     pdf.cell(CARD_W, CARD_H // 2 + 5, f"{name}", align='C', ln=False)
 
+    # Increment card count
     i += 1
 
 print("Output pdf: cards.pdf")
