@@ -35,7 +35,7 @@ Customize according your design later on.
 
 Just run
 ```zsh
-python3 main.py
+python3 script.py
 ```
 
 # Source:
